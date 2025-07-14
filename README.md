@@ -71,9 +71,9 @@ This game demonstrates:
 Frontend Developer | Virtual Assistant | Creative Problem-Solver
 
 - 🌐 [Portfolio](https://markmiki03.wixsite.com/mark-mikile-mutunga)
-- 💼 [LinkedIn]([https://linkedin.com/in/markmutunga](https://www.linkedin.com/in/mark-mutunga-227968220/))
+- 💼 [LinkedIn]([https://www.linkedin.com/in/mark-mutunga-227968220/])
 - 📧 [Email](mailto:markmiki03@gmail.com)
-- 🐙 [GitHub]([https://github.com/markmiki03](https://github.com/MarkMMutunga))
+- 🐙 [GitHub]([https://github.com/MarkMMutunga])
 
 ---
 
